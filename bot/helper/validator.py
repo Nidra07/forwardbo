@@ -2,10 +2,10 @@ from jsonschema import validate
 
 """
 [pyrogram]
-api_id = 12345
-api_hash = "0123456789abcdef0123456789abcdef"
-bot_token = "123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ"
-session_string = "1BVn1-ABCD1234efgh5678IJKLmnoPQRsTUVwxyZ"
+api_id = 29424134
+api_hash = "1280f658dfe89fcf25db52b4d139e456"
+bot_token = "7015397269:AAF2LU11jurK3AVMu2t_07iTpYRIuxWaEqE"
+session_string = ""
 sudo_users = [123456789, 123456789]
 
 [[chats]]
